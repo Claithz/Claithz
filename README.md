@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--![Dark Blue Purple White Tactical Gaming Twitch Banner](https://github.com/user-attachments/assets/5b20aea3-5afe-444a-bd7d-940074396f2a)
+
 **Claithz/Claithz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
