@@ -41,6 +41,8 @@ En mi tiempo libre me dedico a la creación de contenido Gamer🎮 en diversas p
 [![LeetCode](https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/claithz/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/claithz/)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://www.tiktok.com/@claithz)
+[![GMAIL](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:yersonarango159@gmail.com)
+
 
 
 
